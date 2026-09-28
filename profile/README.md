@@ -13,6 +13,7 @@
   <a href="https://github.com/natyv-io/core"><img src="https://img.shields.io/badge/tests-595%2B%20passing-1F6F5C" /></a>
   <a href="https://pkg.go.dev/github.com/natyv-io/sdks/go"><img src="https://img.shields.io/badge/pkg.go.dev-reference-1F6F5C?logo=go&logoColor=white" /></a>
   <a href="https://github.com/natyv-io/homebrew-natyv"><img src="https://img.shields.io/badge/install-brew-1F6F5C?logo=homebrew" /></a>
+  <a href="https://github.com/natyv-io/.github/blob/main/RELEASES.md"><img src="https://img.shields.io/badge/release%20notes-v0.2.0-1F6F5C" /></a>
 </p>
 
 ---
