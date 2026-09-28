@@ -204,22 +204,14 @@ all built on the shared [`ntx-lsp`](https://github.com/natyv-io/ntx-lsp) languag
 
 natyv is under active development. What's coming, roughly in the order it's being built:
 
-**Text editing.** A real cursor and selection model for `TextField`/`TextArea` — click to place the
-caret, click-drag or Shift+arrow to select, and Cmd/Ctrl+C/X/V wired to the system clipboard. Built
-and verified; landing in the next release.
+**Per-widget fonts and font sizes.** Custom fonts today replace natyv's built-in font app-wide. In
+v0.3.0, each widget can pick its own font and size.
 
 **Accessibility.** The honest state of things: because natyv renders its own widgets instead of
 hosting a browser engine, it inherits none of a webview's accessibility for free. Keyboard navigation
 works today; screen reader support does not yet. It's the biggest item on this list and it's being
 built on [AccessKit](https://accesskit.dev), which bridges to VoiceOver, NVDA/Narrator, and Orca
 through each platform's native accessibility API.
-
-**System tray.** A tray icon and menu, so an app can keep doing useful work with its window closed.
-
-**Drawing primitives.** A drawing surface your app can use directly, for charts, diagrams, graphs,
-and any custom visual no widget covers.
-
-**Custom fonts.** Ship your own fonts with your app instead of using natyv's built-in one.
 
 ## App signing, coming as a paid service
 
