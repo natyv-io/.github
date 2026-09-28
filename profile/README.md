@@ -10,7 +10,7 @@
        Discord's numeric server/guild ID, not an invite code, plus the server widget
        enabled under Server Settings -> Widget -- swap to that later if wanted. -->
   <a href="https://discord.gg/xGu2N5e5dq"><img src="https://img.shields.io/badge/Discord-Join-1F6F5C?logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/natyv-io/core"><img src="https://img.shields.io/badge/tests-595%2B%20passing-1F6F5C" /></a>
+  <a href="https://github.com/natyv-io/core"><img src="https://img.shields.io/badge/tests-1%2C150%2B%20passing-1F6F5C" /></a>
   <a href="https://pkg.go.dev/github.com/natyv-io/sdks/go"><img src="https://img.shields.io/badge/pkg.go.dev-reference-1F6F5C?logo=go&logoColor=white" /></a>
   <a href="https://github.com/natyv-io/homebrew-natyv"><img src="https://img.shields.io/badge/install-brew-1F6F5C?logo=homebrew" /></a>
   <a href="https://github.com/natyv-io/.github/blob/main/RELEASES.md"><img src="https://img.shields.io/badge/release%20notes-v0.2.0-1F6F5C" /></a>
